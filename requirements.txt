@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+requests
+cryptography
+pwdlib[argon2]
+PyJWT
