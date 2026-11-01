@@ -3,10 +3,10 @@
 
 **Course:** CSE 3320 — Operating Systems  
 **Assignment:** Lab 4 — Secure Cloud Storage  
-**Student:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**University:** University of Texas at Arlington  
-**Date:** [Submission Date]
+**Student:** Damilola Adesina
+**Student ID:** 1002283276  
+**University:** University of Texas at Arlington 
+**Date:** 10/31/2026
 
 ---
 
@@ -306,17 +306,20 @@ The following functionality was tested during development:
 
 ## Project Screenshots
 
-### User Login
-![User Login](screenshots/login.png)
 
-### Encrypted File Upload
-![Encrypted File Upload](screenshots/upload.png)
+## Project Screenshots
 
-### Stored Files
-![Stored Files](screenshots/files.png)
+### 1. User Login
+![User Login](screenshots/Screenshot%202026-10-31%20at%2010.23.48%20PM.png)
 
-### File Download and Decryption
-![File Download](screenshots/download.png)
+### 2. Encrypted File Upload
+![Encrypted File Upload](screenshots/Screenshot%202026-10-31%20at%2010.24.32%20PM.png)
+
+### 3. Stored Files
+![Stored Files](screenshots/Screenshot%202026-10-31%20at%2010.24.56%20PM.png)
+
+### 4. File Download and Decryption
+![File Download](screenshots/Screenshot%202026-10-31%20at%2010.25.29%20PM.png)
 
 
 1. Successful user registration and login.
